@@ -1,0 +1,110 @@
+[
+    {
+      "id":1,
+      "plase":"Coxs Bazer",
+      "create":1977,
+      "album":15,
+      "Singer":"James",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlz_gNC3qJLHeA5tve79A2PNXpCVbaTvgU7bxC-ux0Vc3P-o71N_iTbq1OvOHKwl69xIM&usqp=CAU",
+      "cost":15000
+    },
+    {
+      "id":2,
+      "plase":"Dhaka",
+      "create":2001,
+      "album":2,
+      "Singer":"Zunayed Evan",
+      "img":"https://media.worldnomads.com/travel-safety/bangladesh/dhaka-at-night-gettyimages-519856065.jpg",
+      "cost":25000
+    },
+    {
+      "id":3,
+      "plase":"usa",
+      "create":1999,
+      "album":17,
+      "Singer":"Tanzir Tuhin",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiA976xm3bIGTF_m68w29j_n2XmN2ebg04K8d3TAmbYvusGK-eblWM6n6Xh03Qv7Tt73g&usqp=CAU",
+      "cost":5000
+    },
+    {
+      "id":4,
+      "plase":"Tangail",
+      "create":2001,
+      "album":10,
+      "Singer":"Jamshed Chowdhury",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6Xck5V11aCcch-QTo_2OAbQJP7PAMwGe98p_o8w_Mbo7CCd8bud6sjKrnHvUl1nh8rE&usqp=CAU",
+      "cost":10000
+    },
+    {
+      "id":5,
+      "plase":"india",
+      "create":1998,
+      "album":19,
+      "Singer":"Suharto Sherif",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZIICJLVN0yqV8TCk8DFXMk-gXa--D2uk64-zjWf7cX_8cBsL_lBGuCuR1jfC0ydKjq8&usqp=CAU",
+      "cost":60000
+    },
+    {
+      "id":6,
+      "plase":"sylhet",
+      "create":2002,
+      "album":21,
+      "Singer":"Emil",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZCtYwtIPB6yFBjEsUBypoc9E_WL8SuulwA&usqp=CAU",
+      "cost":55000
+    },
+    {
+      "id":7,
+      "plase":"London",
+      "create":1999,
+      "album":9,
+      "Singer":"Zohad Reza Chowdhury",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-v4qjeaXjH4TaYi-l0ui-2NFks4N_N1IQmHDDF1i8fwfNb89ezyEK1uRtHVuLjbOhN4&usqp=CAU",
+      "cost":17000
+    },
+    {
+      "id":8,
+      "plase":"Dubai",
+      "create":1994,
+      "album":5,
+      "Singer":"Shakib Chowdhury",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QT5G6xOZfyG_QdAXHW0X-Q4kA2y7LQqQ1cv0r0yNf-Zx7ceE80v-ZVwKSZjjWhIjrhY&usqp=CAU",
+      "cost":19000
+    },
+    {
+      "id":9,
+      "plase":"Thailand",
+      "create":2003,
+      "album":7,
+      "Singer":"Nigar Sultana Sumi",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUWWKxt62tKf-q3JmeUb7JIxr3lNkdCPrUw&usqp=CAU",
+      "cost":45000
+    },
+    {
+      "id":10,
+      "plase":"Bangkok",
+      "create":2005,
+      "album":23,
+      "Singer":"Sharmin Sultana Sumi",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtUHvoW3zU9RwXXCiyj4Zl7gkG8NKJfVy4fw&usqp=CAU",
+      "cost":76000
+    },
+    {
+      "id":11,
+      "plase":"Pattaya",
+      "create":2000,
+      "album":28,
+      "Singer":"George Lincoln Dcosta",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogHj1BxqP6tBSgk8sw3cGZoUxT1siRtr8KQ&usqp=CAU",
+      "cost":156000
+    },
+    {
+      "id":12,
+      "plase":"France",
+      "create":1988,
+      "album":35,
+      "Singer":"Mizan",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1MBJU1u9oXvEAv4oSlAIoTj3PiiGFxYRRQ&usqp=CAU",
+      "cost":97000
+    }
+  ]

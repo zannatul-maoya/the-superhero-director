@@ -1,0 +1,8 @@
+.band-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.bandDetails-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
